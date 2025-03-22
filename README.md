@@ -26,7 +26,7 @@ I am a **Cybersecurity Manager** with expertise in:
 
 | **Skill**                   |  **Tools Used**                           |
 |-----------------------------|-----------------------------------------|
-| **Cybersecurtiy Analysis    | Kali Linux, Metasploit, Nmap, Burp Suite |
+| **Cybersecurtiy Analysis**    | Kali Linux, Metasploit, Nmap, Burp Suite |
 | **Threat Intelligence**      | SIEM (Splunk, ELK), OSINT tools         |
 | **GRC & Compliance**        | RSA Archer, ISO 27001 Framework        |
 | **Network Security**        | Cisco, Wireshark, Firewall configs      |
