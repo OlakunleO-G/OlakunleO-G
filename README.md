@@ -1,8 +1,8 @@
 ## Hi there 👋
-# I am Olakunle Olujimi
+# I am Olakunle Ogunjimi
 
 ## 🔒 About Me  
-I am a **Cybersecurity Managerr** with expertise in:  
+I am a **Cybersecurity Manager** with expertise in:  
 - Cybersecurity Analysis  
 - Governance, Risk, and Compliance (GRC)  
 - ISO 27001 Information Security  
@@ -17,8 +17,8 @@ I am a **Cybersecurity Managerr** with expertise in:
 
 ## 🎯 Certifications  
 - **ISO/IEC 27001 Information Security**  
-- **Comptia Security plus**  
-- **RSA Archer Administration (In Progress)**  
+- **CISM - Certified Information Security Manager**  
+- **Comptia Security Plus**  
 
 ---
 
@@ -32,7 +32,8 @@ I am a **Cybersecurity Managerr** with expertise in:
 | **Network Security**        | Cisco, Wireshark, Firewall configs      |
 | **SIEM & Log Monitoring**    |Splunk, Elastic, wazuh           |
 | **Cloud Security**          | AWS Security Hub, Azure Security Center |
-| **Web Security**            | OWASP ZAP, WPScan, SQLMap              |
+| **Web Security**            | OWASP ZAP, WPScan, SQLMap               |
+| **GRC**                     | ServiceNow, Archer, LogicGate           |
 
 ---
 
