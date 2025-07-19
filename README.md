@@ -64,13 +64,13 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn]( https://www.linkedin.com/in/adediwura-olagoke/)  
-- ✉ Email: adediwuraoluwaseun@gmail.com   
+- 💼 LinkedIn: https://www.linkedin.com/in/olakunle-ogunjimi-cism-comptia-security-4510166a/
+- ✉ Email: oogunjimio@gmail.com 
 - 🌐 Portfolio Site (coming soon!)
 
 ---
 
 > “Cybersecurity is not just a skill — it's a mindset.”  
-> – Adediwura Oluwaseun
+> – Olakunle Ogunjimi
 
 Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
