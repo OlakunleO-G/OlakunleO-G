@@ -1,7 +1,7 @@
 
-# 👩🏽‍💻 Adediwura Oluwaseun – Cybersecurity Analyst
+# 👩🏽‍💻Olakunle Ogunjimi – Information Security Manager
 
-Hi there! 👋 I'm *Adediwura Oluwaseun*, a passionate and hands-on **Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+Hi there! 👋 I'm *Olakunle Ogunjimi*, a passionate and hands-on **Cybersecurity Analyst** with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
 
 ---
 
